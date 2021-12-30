@@ -1,0 +1,2 @@
+# TradeAnalyzer
+Personal Project
